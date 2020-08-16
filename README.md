@@ -1,6 +1,6 @@
-# Quiz_Symfony_SO-BUZZ
-
-Etapes pour tester le projet:
+# Quiz_Symfony_SO-BUZZ  
+  
+Etapes pour tester le projet:  
 
 Récupérer le projet sur github.
 Ouvrir le terminal et taper la commande suivante pour rentrer dans le repertoire du projet:
